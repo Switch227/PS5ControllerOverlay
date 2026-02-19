@@ -22,7 +22,7 @@
 .ds4 .trigger {
     width: 99px;
     height: 100%;
-    background: url(https://github.com/Oekn5w/controllerOverlay/blob/a0c926f7a596cdf093cf983665a978000b69306b/PS5/Trigger_Pressed.png);
+    background: url(Trigger.png);
     opacity: 0;
 }
 
@@ -285,6 +285,7 @@ background-position: 0 -70px;
 }
 
 /*END PS4 White Controller Styling*/
+
 
 
 
