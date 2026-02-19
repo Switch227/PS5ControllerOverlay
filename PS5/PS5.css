@@ -86,7 +86,7 @@
 }
 
 .ds4 .meta.pressed {
-    background: url(https://github.com/Oekn5w/controllerOverlay/blob/a0c926f7a596cdf093cf983665a978000b69306b/PS5/Home.png) no-repeat center;
+    background: url(Home.png) no-repeat center;
 }
 
 .ds4 .p0{
@@ -110,7 +110,7 @@ background-position: 0 -70px;
 }
 
 .ds4 .back, .ds4 .start {
-    background: url(https://github.com/Oekn5w/controllerOverlay/blob/a0c926f7a596cdf093cf983665a978000b69306b/PS5/Select.png);
+    background: url(Select.png);
     width: 26px;
     height: 43px;
     opacity: 0;
@@ -285,6 +285,7 @@ background-position: 0 -70px;
 }
 
 /*END PS4 White Controller Styling*/
+
 
 
 
