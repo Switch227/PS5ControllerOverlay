@@ -40,7 +40,7 @@
 .ds4 .bumper {
     width: 119px;
     height: 41px;
-    background: url(Bumper.png);
+    background: url(BumperPressed.png);
 	opacity: 0;
 }
 
@@ -231,4 +231,5 @@
 }
 
 /*END PS5 Controller Styling*/
+
 
